@@ -481,12 +481,13 @@ opacity: 0.1;
 @media(max-width: 380px){
     .card-body .button{
         position: absolute;
-        top: 230px;
+        top: 235px;
         left: 120px;
     }
     .card-body button{
         position: absolute;
         width: 100px;
+
         height: 30px;
         bottom: 30px;
         left: 90px;
