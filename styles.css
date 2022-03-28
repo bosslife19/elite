@@ -358,9 +358,9 @@ opacity: 0.1;
         font-size: 24px;
         font-weight: 900;
     }
-    .bg-dark{
+    /* .bg-dark{
         /* background-image: url("./andre-francois-mckenzie-JrjhtBJ-pGU-unsplash.jpg"); */
-    }
+    
     body{
         /* background-image: url("images/pexels-alesia-kozik-6780789.jpg"); */
         background-color: black;
@@ -481,14 +481,14 @@ opacity: 0.1;
 @media(max-width: 380px){
     .card-body .button{
         position: absolute;
-        top: 220px;
+        top: 230px;
         left: 120px;
     }
     .card-body button{
         position: absolute;
         width: 100px;
         height: 30px;
-        bottom: 50px;
+        bottom: 30px;
         left: 90px;
     }
 }
